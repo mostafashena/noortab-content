@@ -1,0 +1,16 @@
+{
+  "format": "noortab-publisher",
+  "version": 1,
+  "name": {
+    "fa": "نور",
+    "en": "NoorTab"
+  },
+  "keyId": "pwWuGp3zwYDOVI2c",
+  "publicKey": {
+    "kty": "EC",
+    "crv": "P-256",
+    "x": "tK-5qTLXWceyxra8xLrSzLQoI4gMz4wlhvKkdRmZ4Hg",
+    "y": "j8Q3JV5Hk2l9x7XdtKdfZPlrNYczKg0meWe10BfVDbU"
+  },
+  "contentUrl": "https://mostafashena.github.io/noortab-content/content.json"
+}
