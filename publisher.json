@@ -1,0 +1,16 @@
+{
+  "format": "noortab-publisher",
+  "version": 1,
+  "name": {
+    "fa": "هدی",
+    "en": "HUDA"
+  },
+  "keyId": "HICKdNBsIvCZhryi",
+  "publicKey": {
+    "kty": "EC",
+    "crv": "P-256",
+    "x": "iM1bD90C64A5gk3EFVbpvMiaJOvjekY0mbmiaiNLLbI",
+    "y": "d51dCQ7JEYbYlJlYSqz5Lebako6dVNQmZb7xe95Ez6M"
+  },
+  "contentUrl": "https://mostafashena.github.io/noortab-content/content.json"
+}
